@@ -1,4 +1,4 @@
-# shrinath-rajput1
+# MAchine_Learing 1
 Grain Adultration Detection Using Deep Learing and Image processing
 ## 📌 Project Description
 This project is a deep learning-based food grain detection system that can identify and classify different types of grains (like rice, wheat, lentils, etc.) from images using computer vision and stores the output in a MySQL database.
